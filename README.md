@@ -6,11 +6,9 @@ conda activate tf_env
 
 To install OpenCV in your environment, you can use either conda or pip.
 we will use pip
-
+	
 pip install opencv-python
 pip install opencv-contrib-python
 
 all these on new terminal on vscode
 and then use code
-
-
